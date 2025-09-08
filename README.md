@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/90DaysOfCloudCyberSecurity?style=social&label=Star)](https://github.com/yourusername/90DaysOfCloudCyberSecurity)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/90DaysOfCloudCyberSecurity?style=social&label=Fork)](https://github.com/yourusername/90DaysOfCloudCyberSecurity)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/90DaysOfCloudCyberSecurity)](https://github.com/yourusername/90DaysOfCloudCyberSecurity/issues)
+[![GitHub stars](https://img.shields.io/github/stars/lzzyroot505/90DaysOfCloudCyberSecurity?style=social&label=Star)](https://github.com/yourusername/90DaysOfCloudCyberSecurity)
+[![GitHub forks](https://img.shields.io/github/forks/lzzyroot505/90DaysOfCloudCyberSecurity?style=social&label=Fork)](https://github.com/yourusername/90DaysOfCloudCyberSecurity)
+[![GitHub issues](https://img.shields.io/github/issues/lzzyroot505/90DaysOfCloudCyberSecurity)](https://github.com/yourusername/90DaysOfCloudCyberSecurity/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/90DaysOfCloudCyberSecurity)](https://github.com/yourusername/90DaysOfCloudCyberSecurity/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
@@ -328,7 +328,7 @@ By completing this 90-day program, you will:
 # Click the "Fork" button at the top right
 
 # Clone your fork
-git clone https://github.com/your-username/90DaysOfCloudCyberSecurity.git
+git clone https://github.com/lzzyroot505/90DaysOfCloudCyberSecurity.git
 
 # Navigate to the directory
 cd 90DaysOfCloudCyberSecurity
