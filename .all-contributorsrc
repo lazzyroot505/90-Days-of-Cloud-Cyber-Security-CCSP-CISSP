@@ -1,0 +1,41 @@
+{
+  "projectName": "90DaysOfCloudCyberSecurity",
+  "projectOwner": "lzzyroot505",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "badgeTemplate": "<a href=\"https://github.com/lzzyroot505/90DaysOfCloudCyberSecurity/graphs/contributors\"><img src=\"https://contrib.rocks/image?repo=yourusername/90DaysOfCloudCyberSecurity\" /></a>",
+  "linkTemplate": "[{login}](https://github.com/{login})",
+  "contributorTemplate": "<tr><td align=\"center\"><a href=\"https://github.com/{login}\"><img src=\"https://avatars.githubusercontent.com/u/{id}?v=4\" width=\"100px;\" alt=\"\"/><br /><sub><b>{name}</b></sub></a></td>",
+  "types": {
+    "code": "💻",
+    "doc": "📖",
+    "ideas": "🤔",
+    "infra": "🚇",
+    "maintenance": "🚧",
+    "platform": "📦",
+    "question": "💬",
+    "review": "👀",
+    "test": "⚠️",
+    "tool": "🔧",
+    "translation": "🌍",
+    "tutorial": "✅",
+    "video": "📹",
+    "bug": "🐛",
+    "content": "🖋️",
+    "design": "🎨",
+    "eventOrganizing": "📋",
+    "financial": "💵",
+    "fundingFinding": "🔍",
+    "projectManagement": "📆",
+    "research": "🔬",
+    "userTesting": "📓"
+  }
+}
