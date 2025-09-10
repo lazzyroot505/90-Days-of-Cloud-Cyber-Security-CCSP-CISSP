@@ -1,11 +1,18 @@
 # ☁️🔒 90 Days of Cloud Cyber Security: CCSP + CISSP Mastery
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributor-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="lzzyroot505%2F90-Days-of-Cloud-Cyber-Security-CCSP-CISSP-
+ | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 
 <div align="center">
   
 [![GitHub stars](https://img.shields.io/github/stars/lzzyroot505/90DaysOfCloudCyberSecurity?style=social&label=Star)](https://github.com/yourusername/90DaysOfCloudCyberSecurity)
 [![GitHub forks](https://img.shields.io/github/forks/lzzyroot505/90DaysOfCloudCyberSecurity?style=social&label=Fork)](https://github.com/yourusername/90DaysOfCloudCyberSecurity)
-[![GitHub issues](https://img.shields.io/github/issues/lzzyroot505/90DaysOfCloudCyberSecurity)](https://github.com/yourusername/90DaysOfCloudCyberSecurity/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/90DaysOfCloudCyberSecurity)](https://github.com/yourusername/90DaysOfCloudCyberSecurity/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/lzzyroot505/90DaysOfCloudCyberSecurity)](https://github.com/lzzyroot505/90DaysOfCloudCyberSecurity/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/lzzyroot505/90DaysOfCloudCyberSecurity)](https://github.com/lzzyroot505/90DaysOfCloudCyberSecurity/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
