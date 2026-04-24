@@ -339,3 +339,5 @@ git clone https://github.com/lzzyroot505/90DaysOfCloudCyberSecurity.git
 
 # Navigate to the directory
 cd 90DaysOfCloudCyberSecurity
+
+# Completed
